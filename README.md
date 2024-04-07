@@ -5,12 +5,12 @@
 
 ## Linguagem Utilizada
 <div>
-  <img src="https://img.shields.io/badge/Java-B07219">
+  <img src="https://img.shields.io/badge/Java-B07219" width="80" height="40">
 </div>
 
 ## Plataforma Utilizada
 <div>
-  <img src="https://img.shields.io/badge/Android_Studio-3F4759">
+  <img src="https://img.shields.io/badge/Android_Studio-3F4759" width="180" height="40">
 </div>
 
 ## Interface
