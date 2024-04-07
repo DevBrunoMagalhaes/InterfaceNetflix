@@ -5,7 +5,7 @@
 
 ## Linguagem Utilizada
 <div>
-  <img src="https://img.shields.io/badge/Kotlin-8A2BE2">
+  <img src="https://img.shields.io/badge/Java-B07219">
 </div>
 
 ## Plataforma Utilizada
